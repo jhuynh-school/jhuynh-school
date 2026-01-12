@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 EDS124BR Teaching Computational Thinking for Everyone
+
 Peer-graded Assignment: Show What You Know: Explain Your Program: https://youtu.be/HZ4_8Y67qJw
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
