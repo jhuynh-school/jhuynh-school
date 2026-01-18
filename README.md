@@ -2,7 +2,8 @@
 
 EDS124BR Teaching Computational Thinking for Everyone
 
-Peer-graded Assignment: Show What You Know: Explain Your Program: https://youtu.be/HZ4_8Y67qJw
+Week 1 Peer-graded Assignment: Show What You Know: Explain Your Program: https://youtu.be/HZ4_8Y67qJw
+Week 2 Peer-graded Assignment: Show What You Know: Write and Explain A Program: https://youtu.be/WKHR5TxJlC0
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
