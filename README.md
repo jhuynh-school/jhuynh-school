@@ -8,7 +8,10 @@ Week 2 Peer-graded Assignment: Show What You Know: Write and Explain A Program: 
 
 Week 2 Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan: https://youtu.be/7RLlstSerw8
 
-Week 3 Peer-graded Assignment: Show What You Know: Write and Explain A Program: https://youtu.be/OisRXbdSPk0
+Week 3 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Nested Loops): https://youtu.be/OisRXbdSPk0
+
+Week 3 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Events): https://youtu.be/Pm8F5_tKejI
+
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
