@@ -12,6 +12,7 @@ Week 3 Peer-graded Assignment: Show What You Know: Write and Explain A Program (
 
 Week 3 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Events): https://youtu.be/Pm8F5_tKejI
 
+Week 4 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Variables): https://youtu.be/O_AnHBdNrRA 
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
