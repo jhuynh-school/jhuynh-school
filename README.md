@@ -17,6 +17,8 @@ Week 4 Peer-graded Assignment: Show What You Know: Write and Explain A Program (
 Week 5 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Conditional Loops): https://youtu.be/H1q_o20c7vg
 
 Week 6 Peer-graded Assignment: Show What You Know: Write and Explain A Program (If Else): https://youtu.be/B5oc2GGd1E0
+
+Week 7 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Nested If/Else): https://youtu.be/Fm3z0WANxLE
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
