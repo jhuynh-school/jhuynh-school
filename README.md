@@ -23,6 +23,8 @@ Week 7 Peer-graded Assignment: Show What You Know: Write and Explain A Program (
 Week 8 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Compound Conditionals): https://youtu.be/qtV-k2YyUtc
 
 Week 9 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Abstractions): https://youtu.be/3XkxYkU7zXk
+
+Week 10 Peer-graded Assignment: Show What You Know: Write and Explain A Program (Lists): https://youtu.be/QrHwfcRw4UE
 <!--
 **jhuynh-school/jhuynh-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
